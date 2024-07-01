@@ -31,7 +31,9 @@ npx prisma generate
 nodemon app.js
 ```
 
-## Enpoint Get data Sensor
+## API GET data Sensor
+
+API dapat di request melalui postman ataupun program FrontEnd
 
 ```sh
 http://localhost:3000/sensor/output
