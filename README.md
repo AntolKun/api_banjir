@@ -1,7 +1,8 @@
 ## tutorial pemasangan project
 
 pastikan untuk menjalankan Apache dan Mysql terlebih dahulu pada XAMPP.
-Apabila sudah silahkan ikuti langkah berikut :
+
+Apabila sudah silahkan ikuti langkah-langkah berikut :
 
 1. lakukan clone pada repository github di bawah ini
 
