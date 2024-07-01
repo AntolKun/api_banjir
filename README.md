@@ -1,8 +1,9 @@
 ## tutorial pemasangan project
 
 pastikan untuk menjalankan Apache dan Mysql terlebih dahulu pada XAMPP.
+Apabila sudah silahkan ikuti langkah berikut :
 
-1. lakukan clone pada repository github berikut :
+1. lakukan clone pada repository github di bawah ini
 
 ```sh
 git clone https://github.com/MuhammadWiman/project_siPajar.git
