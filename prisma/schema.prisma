@@ -7,7 +7,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model station1 {
+model station1 { 
   id          Int      @id @default(autoincrement()) @db.UnsignedInt
   sensorid    String   @db.Char(25)
   water_level Float
@@ -15,5 +15,7 @@ model station1 {
   latitude    String   @db.Char(35)
   longitude   String   @db.Char(35)
   kondisi     String   @db.Char(35)
+  jenis       String   @db.Char(25)
   created_at  DateTime @default(now()) @db.Timestamp(0)
+  
 }
